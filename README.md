@@ -1,11 +1,11 @@
 <h1 align="left">Hi, I'm Bappy Masud 👋</h1>
 https://github.com/BappyMasud/BappyMasud/blob/main/SQA%20banner.png
 <p align="center">
-  <img src="https://github.com/BappyMasud/BappyMasud/blob/main/SQA%20banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/BappyMasud/BappyMasud/main/SQA%20banner.png" alt="Banner" width="100%" />
 </p>
 <!--
 **BappyMasud/BappyMasud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 👨‍💻 I am a Software Quality Assurance Engineer  
 🧪 Passionate about testing and ensuring product quality  
 📚 Currently learning Automation (Selenium, Playwright)  
@@ -36,4 +36,3 @@ https://github.com/BappyMasud/BappyMasud/blob/main/SQA%20banner.png
     <img src="https://img.shields.io/badge/Follow-BappyMasud-black?style=for-the-badge" />
   </a>
 </p>
-
