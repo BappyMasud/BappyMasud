@@ -12,7 +12,7 @@
 🎯 Goal: Become a skilled Automation Engineer
 </p>    
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/BappyMasud">
     <img src="https://img.shields.io/badge/Follow-BappyMasud-black?style=for-the-badge" />
   </a>
