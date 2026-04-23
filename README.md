@@ -12,10 +12,10 @@
 🎯 Goal: Become a skilled Automation Engineer
 </p>    
 
-<p>
-  <img src="https://img.shields.io/badge/SQA%20Engineer-blue" />
-  <img src="https://img.shields.io/badge/API%20Tester-orange" />
-  <img src="https://img.shields.io/badge/Automation%20Learner-green" />
+<p align="center">
+  <a href="https://github.com/BappyMasud">
+    <img src="https://img.shields.io/badge/Follow-BappyMasud-black?style=for-the-badge" />
+  </a>
 </p>
 
 ### 🛠️ Skills
@@ -31,9 +31,3 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=BappyMasud&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com/?user=BappyMasud)
-
-<p align="center">
-  <a href="https://github.com/BappyMasud">
-    <img src="https://img.shields.io/badge/Follow-BappyMasud-black?style=for-the-badge" />
-  </a>
-</p>
