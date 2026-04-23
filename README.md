@@ -1,5 +1,4 @@
 <h1 align="left">Hi, I'm Bappy Masud 👋</h1>
-https://github.com/BappyMasud/BappyMasud/blob/main/SQA%20banner.png
 <p align="center">
   <img src="https://raw.githubusercontent.com/BappyMasud/BappyMasud/main/SQA%20banner.png" alt="Banner" width="100%" />
 </p>
