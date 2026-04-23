@@ -5,10 +5,10 @@
 <!--
 **BappyMasud/BappyMasud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-👨‍💻 I am a Software Quality Assurance Engineer  
-🧪 Passionate about testing and ensuring product quality  
-📚 Currently learning Automation (Selenium, Playwright)  
-🎯 Goal: Become a skilled Automation Engineer  
+👨‍💻 I am a Software Quality Assurance Engineer    
+🧪 Passionate about testing and ensuring product quality    
+📚 Currently learning Automation (Selenium, Playwright)    
+🎯 Goal: Become a skilled Automation Engineer    
 
 <p>
   <img src="https://img.shields.io/badge/SQA%20Engineer-blue" />
