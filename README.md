@@ -18,6 +18,15 @@
   </a>
 </p>
 
+
+<h3 align="left">🚀 About Me</h3>
+
+<p>
+SQA Engineer focused on delivering high-quality, error-free software.
+Currently learning automation testing with strong skills in manual testing, defect tracking, and root cause analysis.
+Passionate about continuous learning and solving real-world problems.
+</p>
+
 ### 🛠️ Skills
 
 ![Selenium](https://img.shields.io/badge/-Selenium-green?style=flat-square&logo=selenium)
