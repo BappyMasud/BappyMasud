@@ -1,6 +1,6 @@
-<h2 align="left">Hi, I'm Bappy Masud 👋</h2>
+<h3 align="left">Hi, I'm Bappy Masud 👋</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BappyMasud/BappyMasud/main/SQA%20banner.png" alt="Banner" width="75%" />
+  <img src="https://raw.githubusercontent.com/BappyMasud/BappyMasud/main/SQA%20banner.png" alt="Banner" width="90%" />
 </p>
 <!--
 **BappyMasud/BappyMasud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
