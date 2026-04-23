@@ -22,9 +22,7 @@
 <h3 align="left">🚀 About Me</h3>
 
 <p>
-SQA Engineer focused on delivering high-quality, error-free software.
-Currently learning automation testing with strong skills in manual testing, defect tracking, and root cause analysis.
-Passionate about continuous learning and solving real-world problems.
+I am passionate about learning and sharing knowledge, and I continuously explore new tools and techniques in software testing. I love solving real-world problems, and I approach every project with a strategic, detail-oriented mindset. I take pride in maintaining quality standards and clear communication throughout the testing lifecycle.
 </p>
 
 ### 🛠️ Skills
