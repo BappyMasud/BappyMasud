@@ -1,4 +1,7 @@
 <h3 align="left">Hi, I'm Bappy Masud 👋</h3>
+
+<hr style="width: 60px; border: 2px solid #00ADB5; margin-left: 0;">
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/BappyMasud/BappyMasud/main/SQA%20banner.png" alt="Banner" width="100%" />
 </p>
@@ -25,12 +28,28 @@
 I am passionate about learning and sharing knowledge, and I continuously explore new tools and techniques in software testing. I love solving real-world problems, and I approach every project with a strategic, detail-oriented mindset. I take pride in maintaining quality standards and clear communication throughout the testing lifecycle.
 </p>
 
-### 🛠️ Skills
+### 🛠️ Skills & Experience:
 
-![Selenium](https://img.shields.io/badge/-Selenium-green?style=flat-square&logo=selenium)
-![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
-![JIRA](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+#### ✅ Testing Skills
+- ✔️ Manual Testing (Functional, Regression, Smoke, Exploratory)
+- ✔️ Test Case Design & Test Planning
+- ✔️ Bug Reporting & Defect Tracking
+- ✔️ Root Cause Analysis
+
+#### ⚙️ Tools & Technologies
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+#### 💻 Technical Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
+![API Testing](https://img.shields.io/badge/-API%20Testing-6E57E0?style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+#### 🔄 Methodologies
+- ✔️ SDLC & STLC
+- ✔️ Agile & Scrum
 
 
 ### 📊 GitHub Stats
