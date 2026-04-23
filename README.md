@@ -1,16 +1,39 @@
-## Hi there 👋
-
+<h1 align="left">Hi, I'm Bappy Masud 👋</h1>
+https://github.com/BappyMasud/BappyMasud/blob/main/SQA%20banner.png
+<p align="center">
+  <img src="https://github.com/BappyMasud/BappyMasud/blob/main/SQA%20banner.png" alt="Banner" width="100%" />
+</p>
 <!--
 **BappyMasud/BappyMasud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 I am a Software Quality Assurance Engineer  
+🧪 Passionate about testing and ensuring product quality  
+📚 Currently learning Automation (Selenium, Playwright)  
+🎯 Goal: Become a skilled Automation Engineer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/SQA%20Engineer-blue" />
+  <img src="https://img.shields.io/badge/API%20Tester-orange" />
+  <img src="https://img.shields.io/badge/Automation%20Learner-green" />
+</p>
+
+### 🛠️ Skills
+
+![Selenium](https://img.shields.io/badge/-Selenium-green?style=flat-square&logo=selenium)
+![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
+![JIRA](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=BappyMasud&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=BappyMasud)
+
+<p align="center">
+  <a href="https://github.com/BappyMasud">
+    <img src="https://img.shields.io/badge/Follow-BappyMasud-black?style=for-the-badge" />
+  </a>
+</p>
+
