@@ -25,10 +25,13 @@
 I am passionate about learning and sharing knowledge, and I continuously explore new tools and techniques in software testing. I love solving real-world problems, and I approach every project with a strategic, detail-oriented mindset. I take pride in maintaining quality standards and clear communication throughout the testing lifecycle.
 </p>
 
-<h2 align="left">🛠️ Skills & Experience</h2>
-✅ Testing Skills <br>
-✅ Manual Testing (Functional, Regression, Smoke, Exploratory) <br>
-✅ Test Case Design & Test Planning <br>
-✅ Bug Reporting & Defect Tracking <br>
-✅ Root Cause Analysis <br>
+<h2 align="left">🛠️ Core Skills</h2>
+✅ **Software Testing:** Manual Testing, Functional Testing, Regression Testing, UAT. <br>
+✅ **Test Design:** Test Planning, Test Scenarios, Test Case Design, Bug Reporting. <br>
+✅ **Defect Management:** Defect Logging, Bug Lifecycle Management, Root Cause Analysis. <br>
+✅ **API Testing:** Postman (Manual and Basic Automation). <br>
+✅ **Performance Testing:** Basic Load Testing using JMeter. <br>
+✅ **Automation:** Selenium and Playwright with JavaScript (Basic). <br>
+✅ **Methodologies:** SDLC, STLC, Agile/Scrum. <br>
+✅ **Programming Language:** JavaScript. <br>
 
