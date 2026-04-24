@@ -27,11 +27,11 @@ I am passionate about learning and sharing knowledge, and I continuously explore
 
 <h2 align="left">🛠️ Core Skills</h2>
 
-**Software Testing:** Manual Testing, Functional Testing, Regression Testing, UAT.  
-**Test Design:** Test Planning, Test Scenarios, Test Case Design, Bug Reporting.  
-**Defect Management:** Defect Logging, Bug Lifecycle Management, Root Cause Analysis.  
-**API Testing:** Postman (Manual and Basic Automation).  
-**Performance Testing:** Basic Load Testing using JMeter.  
-**Automation:** Selenium and Playwright with JavaScript (Basic).  
-**Methodologies:** SDLC, STLC, Agile/Scrum.  
-**Programming Language:** JavaScript.
+✅ **Software Testing:** Manual Testing, Functional Testing, Regression Testing, UAT.  
+✅ **Test Design:** Test Planning, Test Scenarios, Test Case Design, Bug Reporting.  
+✅ **Defect Management:** Defect Logging, Bug Lifecycle Management, Root Cause Analysis.  
+✅ **API Testing:** Postman (Manual and Basic Automation).  
+✅ **Performance Testing:** Basic Load Testing using JMeter.  
+✅ **Automation:** Selenium and Playwright with JavaScript (Basic).  
+✅ **Methodologies:** SDLC, STLC, Agile/Scrum.  
+✅ **Programming Language:** JavaScript.
