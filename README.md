@@ -1,5 +1,5 @@
 <h2 align="left" style="margin-bottom: 2px;">Hi, I'm Bappy Masud 👋</h2>
-<hr style="width: 60px; border: 0.5px solid #00ADB5; margin-left: 0;">
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/BappyMasud/BappyMasud/main/SQA%20banner.png" alt="Banner" width="100%" />
 </p>
