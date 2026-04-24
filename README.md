@@ -26,7 +26,7 @@ I am passionate about learning and sharing knowledge, and I continuously explore
 </p>
 
 <h2 align="left">🛠️ Core Skills</h2>
-✅ (**Software Testing:**) Manual Testing, Functional Testing, Regression Testing, UAT. <br>
+**Software Testing:** Manual Testing, Functional Testing, Regression Testing, UAT. <br>
 ✅ **Test Design:** Test Planning, Test Scenarios, Test Case Design, Bug Reporting. <br>
 ✅ **Defect Management:** Defect Logging, Bug Lifecycle Management, Root Cause Analysis. <br>
 ✅ **API Testing:** Postman (Manual and Basic Automation). <br>
