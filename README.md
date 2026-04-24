@@ -20,8 +20,7 @@
 </p>
 
 
-<h3 align="left">🚀 About Me</h3>
-<hr style="width: 60px; height: 2px; background-color: #00ADB5; border: none; margin-left: 0;">
+<h2 align="left">🚀 About Me</h2>
 <p>
 I am passionate about learning and sharing knowledge, and I continuously explore new tools and techniques in software testing. I love solving real-world problems, and I approach every project with a strategic, detail-oriented mindset. I take pride in maintaining quality standards and clear communication throughout the testing lifecycle.
 </p>
