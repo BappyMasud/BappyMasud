@@ -26,9 +26,9 @@ I am passionate about learning and sharing knowledge, and I continuously explore
 </p>
 
 <h2 align="left">🛠️ Skills & Experience</h2>
-✅ Testing Skills
-✅ Manual Testing (Functional, Regression, Smoke, Exploratory)
-✅ Test Case Design & Test Planning
-✅ Bug Reporting & Defect Tracking
-✅ Root Cause Analysis
+✅ Testing Skills <br>
+✅ Manual Testing (Functional, Regression, Smoke, Exploratory) <br>
+✅ Test Case Design & Test Planning <br>
+✅ Bug Reporting & Defect Tracking <br>
+✅ Root Cause Analysis <br>
 
