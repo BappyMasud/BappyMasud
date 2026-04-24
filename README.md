@@ -1,7 +1,7 @@
 <h2 align="left" style="margin-bottom: 2px;">Hi, I'm Sohel 👋</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BappyMasud/BappyMasud/main/SQA%20banner02.png" alt="SQA Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/BappyMasud/BappyMasud/main/banner.png" alt="SQA Banner" width="100%" />
 </p>
 <!--
 **BappyMasud/BappyMasud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
