@@ -25,11 +25,10 @@
 I am passionate about learning and sharing knowledge, and I continuously explore new tools and techniques in software testing. I love solving real-world problems, and I approach every project with a strategic, detail-oriented mindset. I take pride in maintaining quality standards and clear communication throughout the testing lifecycle.
 </p>
 
-### 🛠️ Skills & Experience:
-<hr style="width: 60px; height: 2px; background-color: #00ADB5; border: none; margin-left: 0;">
-#### ✅ Testing Skills
-- ✔️ Manual Testing (Functional, Regression, Smoke, Exploratory)
-- ✔️ Test Case Design & Test Planning
-- ✔️ Bug Reporting & Defect Tracking
-- ✔️ Root Cause Analysis
+<h2 align="left">🛠️ Skills & Experience</h2>
+✅ Testing Skills
+✅ Manual Testing (Functional, Regression, Smoke, Exploratory)
+✅ Test Case Design & Test Planning
+✅ Bug Reporting & Defect Tracking
+✅ Root Cause Analysis
 
