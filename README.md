@@ -4,7 +4,6 @@
 
 <h2 align="Center" style="margin-bottom: 2px;">Hi, I'm Sohel 👋</h2>
 <p align="center">
-    
   <b>Aspiring Software QA Engineer</b><br/>
   Passionate about Testing, Quality, and Continuous Improvement
 </p>
