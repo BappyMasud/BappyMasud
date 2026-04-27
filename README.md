@@ -4,6 +4,7 @@
 
 <h2 align="Center" style="margin-bottom: 2px;">Hi, I'm Sohel 👋</h2>
 <p align="center">
+    *<h3>"**Quality means doing it right even when no one is looking.**"</h3> — Henry Ford* ⭐
   <b>Aspiring Software QA Engineer</b><br/>
   Passionate about Testing, Quality, and Continuous Improvement
 </p>
@@ -17,13 +18,6 @@ I’m a motivated beginner in SQA, eager to learn and grow in software testing, 
 
 I’m using this portfolio to share my **learning journey**, **projects**, and **test artifacts**.
 </p>
-
-<p>
-👨‍💻 I am a Software Quality Assurance Engineer <br>
-🧪 Passionate about testing and ensuring product quality <br>
-📚 Currently learning Automation (Selenium, Playwright) <br>
-🎯 Goal: Become a skilled Automation Engineer
-</p>    
 
 <p align="left">
   <a href="https://github.com/BappyMasud">
@@ -56,8 +50,7 @@ I’m using this portfolio to share my **learning journey**, **projects**, and *
 </p>
  
 <h2 align="left">📫 Connect with Me</h2>
-- 💼 [LinkedIn](https://www.linkedin.com/in/mdsohelalmasud) <br>
-- ✉️ [Email Me](bappymasud9@gmail.com) 
 
----
-   *<h3>"**Quality means doing it right even when no one is looking.**"</h3> — Henry Ford* ⭐
+- 💼 [LinkedIn](https://www.linkedin.com/in/mdsohelalmasud)
+- ✉️ [Email Me](mailto:bappymasud9@gmail.com)
+ 
