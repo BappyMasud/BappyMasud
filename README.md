@@ -2,8 +2,11 @@
   <img src="https://img.shields.io/badge/GitHub-BappyMasud-black?logo=github"/>
 </p>
 
-<h2 align="left" style="margin-bottom: 2px;">Hi, I'm Sohel 👋</h2>
-
+<h2 align="Center" style="margin-bottom: 2px;">Hi, I'm Sohel 👋</h2>
+<p align="center">
+  <b>Aspiring Software QA Engineer</b><br/>
+  Passionate about Testing, Quality, and Continuous Improvement
+</p>
 
 <!--
 **BappyMasud/BappyMasud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
