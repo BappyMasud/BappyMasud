@@ -56,10 +56,8 @@ I’m using this portfolio to share my **learning journey**, **projects**, and *
 </p>
  
 <h2 align="left">📫 Connect with Me</h2>
-- 💼 [LinkedIn](https://www.linkedin.com/in/mdsohelalmasud) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/mdsohelalmasud) <br>
 - ✉️ [Email Me](bappymasud9@gmail.com) 
 
 ---
    *<h3>"**Quality means doing it right even when no one is looking.**"</h3> — Henry Ford* ⭐
-
----
