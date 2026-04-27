@@ -4,7 +4,7 @@
 
 <h2 align="Center" style="margin-bottom: 2px;">Hi, I'm Sohel 👋</h2>
 <p align="center">
-    *<h3>"**Quality means doing it right even when no one is looking.**"</h3> — Henry Ford* ⭐
+    
   <b>Aspiring Software QA Engineer</b><br/>
   Passionate about Testing, Quality, and Continuous Improvement
 </p>
@@ -53,4 +53,5 @@ I’m using this portfolio to share my **learning journey**, **projects**, and *
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mdsohelalmasud)
 - ✉️ [Email Me](mailto:bappymasud9@gmail.com)
- 
+
+ *<h3>"**Quality means doing it right even when no one is looking.**"</h3> — Henry Ford* ⭐
