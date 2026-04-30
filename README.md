@@ -50,7 +50,7 @@ I’m using this portfolio to share my **learning journey**, **projects**, and *
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/Android%20Emulator-3DDC84?logo=android&logoColor=white" alt="Android Emulator"/>
-  <img src="https://img.shields.io/badge/HTTP%20Toolkit-5A0FC8?logo=httptoolkit&logoColor=white" alt="HTTP Toolkit"/>
+  <!--<img src="https://img.shields.io/badge/HTTP%20Toolkit-5A0FC8?logo=httptoolkit&logoColor=white" alt="HTTP Toolkit"/> -->
 </p>
  
  <!--
