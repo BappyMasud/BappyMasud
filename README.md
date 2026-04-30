@@ -27,7 +27,7 @@ I’m using this portfolio to share my **learning journey**, **projects**, and *
 
 
 <h2 align="left">🛠️ Core Skills</h2>
--->
+
 ✅ **Software Testing:** Manual Testing, Functional Testing, Regression Testing, UAT.  
 ✅ **Test Design:** Test Planning, Test Scenarios, Test Case Design, Bug Reporting.  
 ✅ **Defect Management:** Defect Logging, Bug Lifecycle Management, Root Cause Analysis.  
@@ -38,6 +38,7 @@ I’m using this portfolio to share my **learning journey**, **projects**, and *
 ✅ **Programming Language:** JavaScript.
 <!--
 <h2 align="left">⚙️ Tools & Technologies</h2>
+-->
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira"/>
@@ -52,8 +53,8 @@ I’m using this portfolio to share my **learning journey**, **projects**, and *
   <img src="https://img.shields.io/badge/HTTP%20Toolkit-5A0FC8?logo=httptoolkit&logoColor=white" alt="HTTP Toolkit"/>
 </p>
  
+ <!--
 <h2 align="left">📫 Connect with Me</h2>
-
 <p>
   <a href="https://www.linkedin.com/in/mdsohelalmasud">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
@@ -65,4 +66,3 @@ I’m using this portfolio to share my **learning journey**, **projects**, and *
 
  *<h3>"**Quality means doing it right even when no one is looking.**"</h3> — Henry Ford* ⭐
  -->
- 
