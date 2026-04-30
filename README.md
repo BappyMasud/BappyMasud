@@ -27,7 +27,7 @@ I’m using this portfolio to share my **learning journey**, **projects**, and *
 
 
 <h2 align="left">🛠️ Core Skills</h2>
-
+-->
 ✅ **Software Testing:** Manual Testing, Functional Testing, Regression Testing, UAT.  
 ✅ **Test Design:** Test Planning, Test Scenarios, Test Case Design, Bug Reporting.  
 ✅ **Defect Management:** Defect Logging, Bug Lifecycle Management, Root Cause Analysis.  
@@ -36,7 +36,7 @@ I’m using this portfolio to share my **learning journey**, **projects**, and *
 ✅ **Automation:** Selenium and Playwright with JavaScript (Basic).  
 ✅ **Methodologies:** SDLC, STLC, Agile/Scrum.  
 ✅ **Programming Language:** JavaScript.
-
+<!--
 <h2 align="left">⚙️ Tools & Technologies</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
